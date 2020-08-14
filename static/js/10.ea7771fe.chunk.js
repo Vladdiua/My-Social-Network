@@ -1,0 +1,2 @@
+(this["webpackJsonpsocial-network-2"]=this["webpackJsonpsocial-network-2"]||[]).push([[10],{298:function(t,e,n){t.exports={settings:"Settings_settings__3U6ep"}},302:function(t,e,n){"use strict";n.r(e);var s=n(0),i=n.n(s),a=n(298),c=n.n(a);e.default=function(){return i.a.createElement("div",{className:c.a.settings},i.a.createElement("h3",null,"Settings"))}}}]);
+//# sourceMappingURL=10.ea7771fe.chunk.js.map
